@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+
+# Data (if large — remove this line if you want to include the CSV)
+*.csv
+
+# System files
+.DS_Store
